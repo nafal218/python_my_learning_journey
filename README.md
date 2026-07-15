@@ -8,6 +8,5 @@ A simple project that performs basic aritmeic operations.
 A simple ordering system that displays the ffinal price based on the selected items.
 
 # Grade_system:
-A simple grade system that takes a list of student grades, classifies student as passed or failled,
-and display the number of student in each group.
+A simple grade system that takes a list of student grades, classifies student as passed or failled,and display the number of student in each group.
 
