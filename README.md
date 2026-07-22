@@ -9,7 +9,7 @@ A simple ordering system that displays the final price based on the selected ite
 
 # Grade_system:
 A simple grade system that takes a list of student grades, classifies student as passed or failled,and display the number of student in each group.
-
+# احتاج اعدل عليها باستخدام فلتر واضيف ميزات جديده
 # calculator_V2:
 This is the upgraded version of my first calculator project in this version I learned how to use while loop to keep the program running and I organize the function into a separate file.
 
@@ -30,3 +30,5 @@ A simple Python Pomodoro timer that counts down from a user‑defined number of 
 
 # Phone book_V2:
 A simple Python phone book program that allows users to enter a phone number validate it, search for it in a list of saved contacts and add a new contact if the number does not exist.
+
+# to do list:
