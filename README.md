@@ -21,7 +21,9 @@ A simple Python Phone book program that's let's user search for a phone number a
 
 # Age calculator:
 A simple Python program that calculates how many days you have lived based on your age.
+
 # Guessing game:
+A simple Python number‑guessing game where the user tries to guess a random number between 1 and 10. The program gives hints if the guess is too high or too low and shows how many attempts the player took to guess correctly.
 
 # Timer:
 
