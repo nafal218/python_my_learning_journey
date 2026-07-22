@@ -25,9 +25,8 @@ A simple Python program that calculates how many days you have lived based on yo
 # Guessing game:
 A simple Python number‑guessing game where the user tries to guess a random number between 1 and 10. The program gives hints if the guess is too high or too low and shows how many attempts the player took to guess correctly.
 #في نقطه تحتاج لها تعديل 
-
 # Timer:
 A simple Python Pomodoro timer that counts down from a user‑defined number of minutes and displays the remaining time in MM:SS format until the session ends.
 
 # Phone book_V2:
-
+A simple Python phone book program that allows users to enter a phone number validate it, search for it in a list of saved contacts and add a new contact if the number does not exist.
