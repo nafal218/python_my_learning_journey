@@ -6,12 +6,13 @@ A simple project that performs basic aritmeic operations.
 
 # order_system:
 A simple ordering system that displays the final price based on the selected items.
-
+#اقدر اضيف عليه مميزات لطيفه زي  منيو مع عباره ترحبيه وقت المستغرق في خدمه 
 # Grade_system:
 A simple grade system that takes a list of student grades, classifies student as passed or failled,and display the number of student in each group.
 # احتاج اعدل عليها باستخدام فلتر واضيف ميزات جديده
 # calculator_V2:
 This is the upgraded version of my first calculator project in this version I learned how to use while loop to keep the program running and I organize the function into a separate file.
+# اضيف عمليات حسابيه متقدمه عن طريق مكابه ماث 
 
 # Login system:
 A basic login system Built with Python using function conditions loops and models.
